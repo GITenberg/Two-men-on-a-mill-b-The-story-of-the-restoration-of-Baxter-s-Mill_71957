@@ -1,0 +1,24 @@
+_repo: Two-men-on-a-mill-b-The-story-of-the-restoration-of-Baxter-s-Mill_71957
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castonguay, A. Harold
+    gutenberg_agent_id: '56472'
+    url: http://www.gutenberg.org/2009/agents/56472
+description: ''
+gutenberg_issued: '2023-10-25'
+identifiers:
+  gutenberg: '71957'
+language: en
+pgterms:marc905: 20230430083120castonguay
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aSouth Yarmouth, MA :$bThe Wayside Studio, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Two men on a mill : $b The story of the restoration of Baxter''s Mill'
+url: http://www.gutenberg.org/ebooks/71957
