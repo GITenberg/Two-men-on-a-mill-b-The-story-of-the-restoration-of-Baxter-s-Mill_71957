@@ -1,11 +1,16 @@
 _repo: Two-men-on-a-mill-b-The-story-of-the-restoration-of-Baxter-s-Mill_71957
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71957-h/images/cover.jpg
 creator:
   author:
     agent_name: Castonguay, A. Harold
     gutenberg_agent_id: '56472'
     url: http://www.gutenberg.org/2009/agents/56472
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71957#Two-men-on-a-mill-b-The-story-of-the-restoration-of-Baxter-s-Mill
 gutenberg_issued: '2023-10-25'
 identifiers:
   gutenberg: '71957'
